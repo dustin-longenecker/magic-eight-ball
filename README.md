@@ -1,8 +1,7 @@
 # magic-eight-ball
 
-# magic-eight-ball is a simple ruby application demonstrating use of the [Twilio API](https://www.twilio.com/docs/api). Ask a question and enter your phone number. Application will then send a randomized response via text message.
+### magic-eight-ball is a simple ruby application demonstrating use of the [Twilio API](https://www.twilio.com/docs/api). Ask a question and enter your phone number. Application will then send a randomized response via text message.
 
-## Steps to use
   * Clone repository
   * Navigate to directory
   * Run `bundle install`
